@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FirebaseDemo</string>
+    <string name="conditions">* email should contain \'@\' and \'.com\' * password should be of min 6 characters</string>
+</resources>
